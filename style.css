@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase|Lobster&amp;subset=cyrillic,cyrillic-ext');
+body{
+    background-color: blue;
+}
 nav{
 
 }
@@ -8,7 +11,7 @@ text-align: center;
 
 
 
-/* ########################################   Footer Stylimg  #############################################*/
+/* ########################################   Footer Styling  #############################################*/
 #footer{
       position:fixed;
       bottom:0;
@@ -29,11 +32,11 @@ text-align: center;
     border-radius: 25px;
   }
   
-  .fa:hover {
+ .fa:hover {
       opacity: 0.7;
   }
   
-  .fa-facebook {
+.fa-facebook {
     background: #3B5998;
     color: white;
   }
@@ -43,12 +46,12 @@ text-align: center;
     color: white;
   }
 
-  .fa-google {
+.fa-google {
     background: #dd4b39;
     color: white;
   }
   
-  .fa-linkedin {
+.fa-linkedin {
     background: #007bb5;
     color: white;
   }
@@ -58,7 +61,7 @@ text-align: center;
     color: white;
   }
   
-  .fa-instagram {
+.fa-instagram {
     background: #125688;
     color: white;
   }
